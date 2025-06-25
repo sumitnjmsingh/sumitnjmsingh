@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong foundatio
 ### 🌐 Frontend
 
 - React.js, Next.js 14 (App Router, Tailwind CSS)
-- TypeScript, Zustand, Headless UI
+- TypeScript, Headless UI
 - HTML5, CSS3
 
 ### 🔧 Backend
@@ -42,14 +42,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong foundatio
 - 🎙️ Voice-powered web assistants (Speech-to-text → LLM → Text-to-speech)
 - 🔐 Authentication systems (Clerk, NextAuth)
 - 📡 Real-time communication with WebSockets
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumitSingh&show_icons=true&theme=radical)
-
----
 
 ## 🧠 Languages & Frameworks I Use
 
